@@ -1,0 +1,21 @@
+{
+  "id": "lesson6_drinks",
+  "imagePath": "aaa.png",
+  "taskCount": 6,
+  "allowedTasks":[
+    "taskTranslateSimple",
+    "taskPhrase"
+  ],
+  "entries": [
+    "water",
+    "milk",
+    "tea",
+    "coffee"
+  ],
+  "phrases": [
+    "i_drink_water",
+    "they_drink_coffee_with_milk",
+    "you_do_not_drink_tea",
+    "we_drink_tea_and_coffee"
+  ]
+}

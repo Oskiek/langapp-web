@@ -1,0 +1,18 @@
+{
+  "id": "lesson8_general_review_1",
+  "imagePath": "aaa.png",
+  "taskCount": 7,
+  "allowedTasks":[
+    "taskTranslateSimple"
+  ],
+  "entries": [
+    "mother",
+    "father",
+    "son",
+    "daughter",
+    "brother",
+    "sister"
+  ],
+  "phrases": [
+  ]
+}

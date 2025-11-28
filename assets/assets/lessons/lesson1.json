@@ -1,0 +1,18 @@
+{
+  "id": "lesson1_foods",
+  "imagePath": "aaa.png",
+  "taskCount": 5,
+  "allowedTasks":[
+    "taskTranslateSimple",
+    "taskPhrase"
+  ],
+  "entries": [
+    "apple",
+    "banana",
+    "pear"
+  ],
+  "phrases": [
+    "he_eats_apple",
+    "i_eat_bananas_and_apples"
+  ]
+}

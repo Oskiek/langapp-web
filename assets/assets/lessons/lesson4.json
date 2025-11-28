@@ -1,0 +1,16 @@
+{
+  "id": "lesson3_persons1",
+  "imagePath": "aaa.png",
+  "taskCount": 5,
+  "allowedTasks":[
+    "taskTranslateSimple"
+  ],
+  "entries": [
+    "we",
+    "you_plural",
+    "they_masc",
+    "they_fem"
+  ],
+  "phrases": [
+  ]
+}

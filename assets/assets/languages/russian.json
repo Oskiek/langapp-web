@@ -1,0 +1,445 @@
+{
+  "meta": {
+    "language": "ru",
+    "name": "Русский"
+  },
+  "typos": {},
+  "ui_entries":{
+    "RESULT_terrible" : ["Ужасно!"],
+    "RESULT_bad" : ["Плохо."],
+    "RESULT_okay" : ["Так себе"],
+    "RESULT_good" : ["Хорошо!"],
+    "RESULT_awesome" : ["Отлично!"],
+    "TASK_translateWord" : ["Переведи слово"],
+    "TASK_translatePhrase" : ["Переведи фразу"],
+    "TASK_column" : ["Соедини слова с их правильными переводами"],
+    "TASK_check" : ["Проверить"],
+    "LESSON_completed" : ["Урок завершён!"],
+    "LESSON_score" : ["Твой результат:"],
+    "LESSON_newUnlocked" : ["Следующий урок разблокирован!"],
+    "LESSON_backToList" : ["Вернуться к списку уроков"],
+    "MENU_deleteAllCourses" : ["Удалить все курсы"],
+    "MENU_selectNative" : ["Выбери родной язык"],
+    "MENU_selectTarget" : ["Выбери язык, который хочешь изучать"],
+    "MENU_noCourses": [
+      "Нет курсов!"
+    ]
+  },
+  "entries": {
+    "generic_informal_greeting": ["привет"],
+    "generic_formal_greeting": ["доброе у́тро", "добрый день"],
+    "generic_goodbye": ["до свидания", "пока"],
+    "thank_you_basic": ["спаси́бо", "благодарю"],
+    "and": {
+      "lemma":"и",
+      "forms":{
+        "i":"и",
+        "a":"a"
+      }
+    },
+
+    "apple": {
+      "imagePath" : "assets/entry_img/apple.png",
+      "lemma": "яблоко",
+      "forms": {
+        "sg_nom": "яблоко",
+        "sg_acc": "яблоко",
+        "pl_nom": "яблоки",
+        "pl_acc": "яблоки"
+      }
+    },
+    "banana": {
+      "imagePath" : "assets/entry_img/banana.png",
+      "lemma": "банан",
+      "forms": {
+        "sg_nom": "банан",
+        "sg_acc": "банан",
+        "pl_nom": "бананы",
+        "pl_acc": "бананы"
+      }
+    },
+    "pear": {
+      "imagePath" : "assets/entry_img/pear.png",
+      "lemma": "груша",
+      "forms": {
+        "sg_nom": "груша",
+        "sg_acc": "грушу",
+        "pl_nom": "груши",
+        "pl_acc": "груши"
+      }
+    },
+    "eat": {
+      "lemma": "есть",
+      "forms": {
+        "1sg": "ем",
+        "2sg": "ешь",
+        "3sg": "ест",
+        "1pl": "едим",
+        "2pl": "едите",
+        "3pl": "едят",
+        "inf": "есть"
+      }
+    },
+    "drink": {
+      "lemma": "пить",
+      "forms": {
+        "1sg": "пью",
+        "2sg": "пьёшь",
+        "3sg": "пьёт",
+        "1pl": "пьем",
+        "2pl": "пьёте",
+        "3pl": "пьют",
+        "inf": "пить"
+      }
+    },
+    "like": {
+      "lemma": "любить",
+      "forms": {
+        "1sg": "люблю",
+        "2sg": "любишь",
+        "3sg": "любит",
+        "1pl": "любим",
+        "2pl": "любите",
+        "3pl": "любят",
+        "inf": "любить"
+      }
+    },
+
+    "he": { "imagePath" : "assets/entry_img/he.png", "lemma": "он", "forms": { "nom": "он", "acc": "его" } },
+    "she": { "imagePath" : "assets/entry_img/she.png", "lemma": "она", "forms": { "nom": "она", "acc": "её" } },
+    "i": { "imagePath" : "assets/entry_img/me.png", "lemma": "я", "forms": { "nom": "я", "acc": "меня" } },
+    "you": { "imagePath" : "assets/entry_img/you.png", "lemma": "ты", "forms": { "nom": "ты", "acc": "тебя" } },
+    "we": { "imagePath" : "assets/entry_img/we.png", "lemma": "мы", "forms": { "nom": "мы", "acc": "нас" } },
+    "you_plural": { "imagePath" : "assets/entry_img/you_plural.png", "lemma": "вы", "forms": { "nom": "вы", "acc": "вас" } },
+    "they_masc": { "imagePath" : "assets/entry_img/they_masc.png", "lemma": "они", "forms": { "nom": "они", "acc": "их" } },
+    "they_fem": { "imagePath" : "assets/entry_img/they_fem.png", "lemma": "они", "forms": { "nom": "они", "acc": "их" } },
+
+    "bread": {
+      "imagePath" : "assets/entry_img/bread.png", 
+      "lemma": "хлеб",
+      "forms": {
+        "sg_nom": "хлеб",
+        "sg_acc": "хлеб",
+        "pl_nom": "хлебы",
+        "pl_acc": "хлебы"
+      }
+    },
+    "cheese": {
+      "imagePath" : "assets/entry_img/cheese.png", 
+      "lemma": "сыр",
+      "forms": {
+        "sg_nom": "сыр",
+        "sg_acc": "сыр",
+        "sg_instr": "сыром",
+        "pl_nom": "сыры",
+        "pl_acc": "сыры"
+      }
+    },
+    "butter": {
+      "imagePath" : "assets/entry_img/butter.png", 
+      "lemma": "масло",
+      "forms": {
+        "sg_nom": "масло",
+        "sg_acc": "масло",
+        "sg_instr": "маслом"
+      }
+    },
+    "with": { "lemma": "с", "forms": { "base": "с", "so": "сo"  } },
+
+    "water": {
+      "imagePath" : "assets/entry_img/water.png", 
+      "lemma": "вода",
+      "forms": {
+        "sg_nom": "вода",
+        "sg_acc": "воду"
+      }
+    },
+    "milk": {
+      "imagePath" : "assets/entry_img/milk.png", 
+      "lemma": "молоко",
+      "forms": {
+        "sg_nom": "молоко",
+        "sg_acc": "молоко",
+        "sg_instr": "молоком"
+      }
+    },
+    "tea": {
+      "imagePath" : "assets/entry_img/tea.png", 
+      "lemma": "чай",
+      "forms": {
+        "sg_nom": "чай",
+        "sg_acc": "чай"
+      }
+    },
+    "coffee": {
+      "imagePath" : "assets/entry_img/coffee.png", 
+      "lemma": "кофе",
+      "forms": {
+        "sg_nom": "кофе",
+        "sg_acc": "кофе"
+      }
+    },
+    "beer": {
+      "imagePath" : "assets/entry_img/beer.png", 
+      "lemma": "пиво",
+      "forms": {
+        "sg_nom": "пиво",
+        "sg_acc": "пиво",
+        "pl_nom": "пива",
+        "pl_acc": "пива"
+      }
+    },
+
+    "juice": {
+      "imagePath" : "assets/entry_img/juice.png", 
+      "lemma": "сок",
+      "forms": {
+        "sg_nom": "сок",
+        "sg_acc": "сок",
+        "pl_nom": "соки",
+        "pl_acc": "соки"
+      }
+    },
+
+    "apple_adj": {
+      "lemma": "яблочный",
+      "forms": {
+        "sg_nom_masc": "яблочный",
+        "sg_acc_masc": "яблочный"
+      }
+    },
+    "banana_adj": {
+      "lemma": "банановый",
+      "forms": {
+        "sg_nom_masc": "банановый",
+        "sg_acc_masc": "банановый"
+      }
+    },
+
+    "please": ["пожалуйста"],
+    "no": ["не"],
+
+    "here": { "lemma": "здесь", "forms": { "base": "здесь" } },
+    "there": { "lemma": "там", "forms": { "base": "там" } },
+    "cold": { "lemma": "холодно", "forms": { "nom": "холодно", "acc": "холодно" } },
+    "warm": { "lemma": "тепло", "forms": { "nom": "тепло", "acc": "тепло" } },
+    "cold_adj": {
+      "lemma": "холодный",
+      "forms": {
+        "sg_nom_masc": "холодный",
+        "sg_acc_masc": "холодный"
+      }
+    },
+    "is": { "lemma": "быть", "forms": { "1sg": "это", "3sg": "есть", "3pl": "есть" } },
+
+    "my": {
+      "lemma": "мой",
+      "forms": {
+        "masc_nom": "мой",
+        "masc_gen": "моего",
+        "fem_nom": "моя",
+        "neut_nom": "моё"
+      }
+    },
+    "mother": {
+      "imagePath" : "assets/entry_img/mom.png", 
+      "lemma": "мама",
+      "forms": {
+        "sg_nom": "мама",
+        "sg_acc": "маму"
+      }
+    },
+    "father": {
+      "imagePath" : "assets/entry_img/dad.png", 
+      "lemma": "папа",
+      "forms": {
+        "sg_nom": "папа",
+        "sg_acc": "папу",
+        "sg_gen": "папы"
+      }
+    },
+    "son": {
+      "imagePath" : "assets/entry_img/son.png", 
+      "lemma": "сын",
+      "forms": {
+        "sg_nom": "сын",
+        "sg_acc": "сына"
+      }
+    },
+    "daughter": {
+      "imagePath" : "assets/entry_img/daughter.png", 
+      "lemma": "дочь",
+      "forms": {
+        "sg_nom": "дочь",
+        "sg_acc": "дочь"
+      }
+    },
+    "brother": {
+      "imagePath" : "assets/entry_img/brother.png", 
+      "lemma": "брат",
+      "forms": {
+        "sg_nom": "брат",
+        "sg_acc": "брата"
+      }
+    },
+    "sister": {
+      "imagePath" : "assets/entry_img/sister.png", 
+      "lemma": "сестра",
+      "forms": {
+        "sg_nom": "сестра",
+        "sg_acc": "сестру"
+      }
+    },
+    "of": { "lemma": "у", "forms": { "base": "у" } }
+  },
+  "phrases": {
+    "he_eats_apple": [
+      { "entry": "he", "form": "nom" },
+      { "entry": "eat", "form": "3sg" },
+      { "entry": "apple", "form": "sg_acc" }
+    ],
+    "i_eat_bananas_and_apples": [
+      { "entry": "i", "form": "nom" },
+      { "entry": "eat", "form": "1sg" },
+      { "entry": "banana", "form": "pl_acc" },
+      { "entry": "and", "form": "i" },
+      { "entry": "apple", "form": "pl_acc" }
+    ],
+    "thank_you_and_goodbye": [
+      { "entry": "thank_you_basic" },
+      { "entry": "and", "form": "i"  },
+      { "entry": "generic_goodbye" }
+    ],
+    "bread_with_cheese": [
+      { "entry": "bread", "form": "sg_nom" },
+      { "entry": "with", "form": "so" },
+      { "entry": "cheese", "form": "sg_instr" }
+    ],
+    "i_eat_bananas_with_butter_and_you_eat_bread": [
+      { "entry": "i", "form": "nom" },
+      { "entry": "eat", "form": "1sg" },
+      { "entry": "banana", "form": "pl_acc" },
+      { "entry": "with" , "form": "so"},
+      { "entry": "butter", "form": "sg_instr" },
+      { "entry": "and", "form": "a"  },
+      { "entry": "you", "form": "nom" },
+      { "entry": "eat", "form": "2sg" },
+      { "entry": "bread", "form": "sg_acc" }
+    ],
+    "i_drink_water": [
+      { "entry": "i", "form": "nom" },
+      { "entry": "drink", "form": "1sg" },
+      { "entry": "water", "form": "sg_acc" }
+    ],
+    "they_drink_coffee_with_milk": [
+      { "entry": "they_masc", "form": "nom" },
+      { "entry": "drink", "form": "3pl" },
+      { "entry": "coffee", "form": "sg_acc" },
+      { "entry": "with", "form": "base" },
+      { "entry": "milk", "form": "sg_instr" }
+    ],
+    "you_do_not_drink_tea": [
+      { "entry": "you", "form": "nom" },
+      { "entry": "no" },
+      { "entry": "drink", "form": "2sg" },
+      { "entry": "tea", "form": "sg_acc" }
+    ],
+    "we_drink_tea_and_coffee": [
+      { "entry": "we", "form": "nom" },
+      { "entry": "drink", "form": "1pl" },
+      { "entry": "tea", "form": "sg_acc" },
+      { "entry": "and", "form": "i"  },
+      { "entry": "coffee", "form": "sg_acc" }
+    ],
+    "apple_juice": [
+      { "entry": "apple_adj", "form": "sg_nom_masc" },
+      { "entry": "juice", "form": "sg_nom" }
+    ],
+    "banana_juice": [
+      { "entry": "banana_adj", "form": "sg_nom_masc" },
+      { "entry": "juice", "form": "sg_nom" }
+    ],
+    "apple_juice_please": [
+      { "entry": "apple_adj", "form": "sg_acc_masc" },
+      { "entry": "juice", "form": "sg_acc" },
+      { "entry": "please" }
+    ],
+    "you_drink_beer_and_i_drink_banana_juice": [
+      { "entry": "you", "form": "nom" },
+      { "entry": "drink", "form": "2sg" },
+      { "entry": "beer", "form": "sg_acc" },
+      { "entry": "and" , "form": "a" },
+      { "entry": "i", "form": "nom" },
+      { "entry": "drink", "form": "1sg" },
+      { "entry": "banana_adj", "form": "sg_acc_masc" },
+      { "entry": "juice", "form": "sg_acc" }
+    ],
+    "i_like_to_drink_banana_juice_and_eat_bread_with_cheese": [
+      { "entry": "i", "form": "nom" },
+      { "entry": "like", "form": "1sg" },
+      { "entry": "drink", "form": "inf" },
+      { "entry": "banana_adj", "form": "sg_acc_masc" },
+      { "entry": "juice", "form": "sg_acc" },
+      { "entry": "and", "form": "i"  },
+      { "entry": "eat", "form": "inf" },
+      { "entry": "bread", "form":"sg_nom" },
+      { "entry": "with", "form": "so" },
+      { "entry": "cheese", "form":"sg_instr" }
+    ],
+    "here_is_cold": [
+      { "entry": "here" },
+      { "entry": "cold", "form": "nom" }
+    ],
+    "there_is_warm": [
+      { "entry": "there" },
+      { "entry": "warm", "form": "nom" }
+    ],
+    "i_like_cold": [
+      { "entry": "i", "form": "nom" },
+      { "entry": "like", "form": "1sg" },
+      { "entry": "cold", "form": "acc" }
+    ],
+    "you_do_not_like_warm": [
+      { "entry": "you", "form": "nom" },
+      { "entry": "no" },
+      { "entry": "like", "form": "2sg" },
+      { "entry": "warm", "form": "acc" }
+    ],
+    "brother_is_here_and_sister_is_there": [
+      { "entry": "brother", "form": "sg_nom" },
+      { "entry": "here" },
+      { "entry": "and", "form": "a"  },
+      { "entry": "sister", "form": "sg_nom" },
+      { "entry": "there" }
+    ],
+    "my_brother_is_son_of_my_father": [
+      { "entry": "my", "form": "masc_nom" },
+      { "entry": "brother", "form": "sg_nom" },
+      { "entry": "is", "form": "1sg" },
+      { "entry": "son", "form": "sg_nom" },
+      { "entry": "my", "form": "masc_gen" },
+      { "entry": "father", "form": "sg_gen" }
+    ],
+    "mother_eats_apples_and_father_pears": [
+      { "entry": "mother", "form": "sg_nom" },
+      { "entry": "eat", "form": "3sg" },
+      { "entry": "apple", "form": "pl_acc" },
+      { "entry": "and", "form": "a"  },
+      { "entry": "father", "form": "sg_nom" },
+      { "entry": "eat", "form": "3sg" },
+      { "entry": "pear", "form": "pl_acc" }
+    ],
+    "son_and_daughter_eat_bananas_and_drink_cold_banana_juice": [
+      { "entry": "son", "form": "sg_nom" },
+      { "entry": "and", "form": "i"  },
+      { "entry": "daughter", "form": "sg_nom" },
+      { "entry": "eat", "form": "3pl" },
+      { "entry": "banana", "form": "pl_acc" },
+      { "entry": "and", "form": "a"  },
+      { "entry": "drink", "form": "3pl" },
+      { "entry": "cold_adj", "form": "sg_acc_masc" },
+      { "entry": "banana_adj", "form": "sg_acc_masc" },
+      { "entry": "juice", "form": "sg_acc" }
+    ]
+  }
+}

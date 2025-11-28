@@ -1,0 +1,18 @@
+{
+  "id": "lesson3_persons1",
+  "imagePath": "aaa.png",
+  "taskCount": 5,
+  "allowedTasks":[
+    "taskTranslateSimple",
+    "taskPhrase"
+  ],
+  "entries": [
+    "bread",
+    "cheese",
+    "butter"
+  ],
+  "phrases": [
+    "bread_with_cheese",
+    "i_eat_bananas_with_butter_and_you_eat_bread"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "lesson8_general_review_1",
+  "imagePath": "aaa.png",
+  "taskCount": 7,
+  "allowedTasks":[
+    "taskTranslate",
+    "taskTranslate",
+    "taskPhrase"
+  ],
+  "entries": [
+    "here",
+    "there",
+    "cold",
+    "warm"
+  ],
+  "phrases": [
+    "here_is_cold",
+    "there_is_warm",
+    "i_like_cold",
+    "you_do_not_like_warm"
+  ]
+}

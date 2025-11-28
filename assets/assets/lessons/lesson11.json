@@ -1,0 +1,16 @@
+{
+  "id": "lesson8_general_review_1",
+  "imagePath": "aaa.png",
+  "taskCount": 5,
+  "allowedTasks":[
+    "taskPhrase"
+  ],
+  "entries": [
+  ],
+  "phrases": [
+    "brother_is_here_and_sister_is_there",
+    "my_brother_is_son_of_my_father",
+    "mother_eats_apples_and_father_pears",
+    "son_and_daughter_eat_bananas_and_drink_cold_banana_juice"
+  ]
+}

@@ -1,0 +1,1058 @@
+{
+  "meta": {
+    "language": "fr",
+    "name": "Francais"
+  },
+  "typos": {
+    "à":"a",
+    "â":"a",
+    "æ":"ae",
+    "é":"e",
+    "è":"e",
+    "ê":"e",
+    "ë":"e",
+    "î":"i",
+    "ï":"i",
+    "ô":"o",
+    "œ":"oe",
+    "ù":"u",
+    "û":"u",
+    "ü":"u",
+    "ÿ":"y"
+  },
+  "ui_entries": {
+    "RESULT_terrible": [
+      "Terrible !"
+    ],
+    "RESULT_bad": [
+      "Assez mauvais."
+    ],
+    "RESULT_okay": [
+      "Vous pouvez mieux faire !"
+    ],
+    "RESULT_good": [
+      "Bien !"
+    ],
+    "RESULT_awesome": [
+      "Génial !"
+    ],
+    "TASK_translateWord": [
+      "Traduire le mot"
+    ],
+    "TASK_translatePhrase": [
+      "Traduire la phrase"
+    ],
+    "TASK_column": [
+      "Reliez les mots à leurs bonnes traductions"
+    ],
+    "TASK_check": [
+      "Vérifier"
+    ],
+    "LESSON_completed": [
+      "Leçon terminée !"
+    ],
+    "LESSON_score": [
+      "Votre score :"
+    ],
+    "LESSON_newUnlocked": [
+      "Prochaine leçon débloquée !"
+    ],
+    "LESSON_backToList": [
+      "Retour à la liste des leçons"
+    ],
+    "MENU_deleteAllCourses": [
+      "Supprimer tous les cours"
+    ],
+    "MENU_selectNative": [
+      "Sélectionnez votre langue maternelle"
+    ],
+    "MENU_selectTarget": [
+      "Sélectionnez la langue que vous voulez apprendre"
+    ],
+    "MENU_noCourses": [
+      "Pas de cours!"
+    ]
+  },
+  "entries": {
+    "generic_informal_greeting": [
+      "salut"
+    ],
+    "generic_formal_greeting": [
+      "bonjour"
+    ],
+    "generic_goodbye": [
+      "au revoir",
+      "a plus"
+    ],
+    "thank_you_basic": [
+      "merci"
+    ],
+    "and": [
+      "et"
+    ],
+    "article_indefinite": {
+      "forms": {
+        "un": "un",
+        "une": "une"
+      }
+    },
+    "article_definite": {
+      "forms": {
+        "le": "le",
+        "la": "la",
+        "l": "l'",
+        "les": "les"
+      }
+    },
+    "article_uncountable": {
+      "forms": {
+        "du": "du",
+        "de": "de",
+        "d": "d'",
+        "des": "des"
+      }
+    },
+    "apple": {
+      "imagePath": "assets/entry_img/apple.png",
+      "lemma": "pomme",
+      "forms": {
+        "sg": "pomme",
+        "pl": "pommes"
+      }
+    },
+    "banana": {
+      "imagePath": "assets/entry_img/banana.png",
+      "lemma": "banane",
+      "forms": {
+        "sg": "banane",
+        "pl": "bananes"
+      }
+    },
+    "pear": {
+      "imagePath": "assets/entry_img/pear.png",
+      "lemma": "poire",
+      "forms": {
+        "sg": "poire",
+        "pl": "poires"
+      }
+    },
+    "eat": {
+      "lemma": "manger",
+      "forms": {
+        "1sg": "mange",
+        "2sg": "manges",
+        "3sg": "mange",
+        "1pl": "mangeons",
+        "2pl": "mangez",
+        "3pl": "mangent",
+        "inf": "manger"
+      }
+    },
+    "drink": {
+      "lemma": "boire",
+      "forms": {
+        "1sg": "bois",
+        "2sg": "bois",
+        "3sg": "boit",
+        "1pl": "buvons",
+        "2pl": "buvez",
+        "3pl": "boivent",
+        "inf": "boire"
+      }
+    },
+    "like": {
+      "lemma": "aimer",
+      "forms": {
+        "1sg": "aime",
+        "2sg": "aimes",
+        "3sg": "aime",
+        "1pl": "aimons",
+        "2pl": "aimez",
+        "3pl": "aiment"
+      }
+    },
+    "he": {
+      "imagePath": "assets/entry_img/he.png",
+      "lemma": "il",
+      "forms": {
+        "nom": "il",
+        "acc": "lui"
+      }
+    },
+    "she": {
+      "imagePath": "assets/entry_img/she.png",
+      "lemma": "elle",
+      "forms": {
+        "nom": "elle",
+        "acc": "la"
+      }
+    },
+    "i": {
+      "imagePath": "assets/entry_img/me.png",
+      "lemma": "je",
+      "forms": {
+        "nom": "je",
+        "acc": "moi"
+      }
+    },
+    "i_short": [
+      "j'"
+    ],
+    "you": {
+      "imagePath": "assets/entry_img/you.png",
+      "lemma": "tu",
+      "forms": {
+        "nom": "tu",
+        "acc": "toi"
+      }
+    },
+    "you_short": [
+      "t'"
+    ],
+    "we": {
+      "imagePath": "assets/entry_img/we.png",
+      "lemma": "nous",
+      "forms": {
+        "nom": "nous",
+        "acc": "nous"
+      }
+    },
+    "you_plural": {
+      "imagePath": "assets/entry_img/you_plural.png",
+      "lemma": "nous",
+      "forms": {
+        "nom": "nous",
+        "acc": "nous"
+      }
+    },
+    "they_masc": {
+      "imagePath": "assets/entry_img/they_masc.png",
+      "lemma": "ils",
+      "forms": {
+        "nom": "ils",
+        "acc": "leur"
+      }
+    },
+    "they_fem": {
+      "imagePath": "assets/entry_img/they_fem.png",
+      "lemma": "elles",
+      "forms": {
+        "nom": "elles",
+        "acc": "leur"
+      }
+    },
+    "bread": {
+      "imagePath": "assets/entry_img/bread.png",
+      "lemma": "pain",
+      "forms": {
+        "sg": "pain",
+        "pl": "pains"
+      }
+    },
+    "cheese": {
+      "imagePath": "assets/entry_img/cheese.png",
+      "lemma": "fromage",
+      "forms": {
+        "sg": "fromage",
+        "pl": "fromages"
+      }
+    },
+    "butter": {
+      "imagePath": "assets/entry_img/butter.png",
+      "lemma": "beurre"
+    },
+    "with": {
+      "lemma": "avec",
+      "forms": {
+        "avec": "avec",
+        "au": "au"
+      }
+    },
+    "water": {
+      "imagePath": "assets/entry_img/water.png",
+      "lemma": "eau",
+      "forms": {
+        "sg": "eau",
+        "pl": "eaux"
+      }
+    },
+    "milk": {
+      "imagePath": "assets/entry_img/milk.png",
+      "lemma": "lait"
+    },
+    "tea": {
+      "imagePath": "assets/entry_img/tea.png",
+      "lemma": "thé",
+      "forms": {
+        "sg": "thé",
+        "pl": "thés"
+      }
+    },
+    "coffee": {
+      "imagePath": "assets/entry_img/coffee.png",
+      "lemma": "café",
+      "forms": {
+        "sg": "café",
+        "pl": "cafés"
+      }
+    },
+    "beer": {
+      "imagePath": "assets/entry_img/beer.png",
+      "lemma": "bière",
+      "forms": {
+        "sg": "bière",
+        "pl": "bières"
+      }
+    },
+    "juice": {
+      "imagePath": "assets/entry_img/juice.png",
+      "lemma": "jus",
+      "forms": {
+        "sg": "jus",
+        "pl": "jus"
+      }
+    },
+    "please": [
+      "s'il vous plaît"
+    ],
+    "no": {
+      "lemma": "non",
+      "forms": {
+        "ne": "ne",
+        "pas": "pas",
+        "n": "n'"
+      }
+    },
+    "here": {
+      "lemma": "ici",
+      "forms": {
+        "base": "ici"
+      }
+    },
+    "there": {
+      "lemma": "là-bas",
+      "forms": {
+        "base": "là-bas"
+      }
+    },
+    "cold": {
+      "lemma": "froid",
+      "forms": {
+        "sg_masc": "froid",
+        "sg_fem": "froide",
+        "pl_masc": "froids",
+        "pl_fem": "froides"
+      }
+    },
+    "warm": {
+      "lemma": "chaud",
+      "forms": {
+        "nom": "chaleur",
+        "sg_masc": "chaud",
+        "sg_fem": "chaude",
+        "pl_masc": "chauds",
+        "pl_fem": "chaudes"
+      }
+    },
+    "is": {
+      "lemma": "etre",
+      "forms": {
+        "3sg": "est",
+        "3pl": "sont"
+      }
+    },
+    "do": {
+      "lemma": "faire",
+      "forms": {
+        "3sg": "fait"
+      }
+    },
+    "my": {
+      "lemma": "mon",
+      "forms": {
+        "masc_nom": "mon",
+        "fem_nom": "ma"
+      }
+    },
+    "mother": {
+      "imagePath": "assets/entry_img/mom.png",
+      "lemma": "mère",
+      "forms": {
+        "sg": "mère",
+        "pl": "mères"
+      }
+    },
+    "father": {
+      "imagePath": "assets/entry_img/dad.png",
+      "lemma": "père",
+      "forms": {
+        "sg": "père",
+        "pl": "pères"
+      }
+    },
+    "son": {
+      "imagePath": "assets/entry_img/son.png",
+      "lemma": "fils"
+    },
+    "daughter": {
+      "imagePath": "assets/entry_img/daughter.png",
+      "lemma": "fille",
+      "forms": {
+        "sg": "fille",
+        "pl": "filles"
+      }
+    },
+    "brother": {
+      "imagePath": "assets/entry_img/brother.png",
+      "lemma": "frère",
+      "forms": {
+        "sg": "frère",
+        "pl": "frère"
+      }
+    },
+    "sister": {
+      "imagePath": "assets/entry_img/sister.png",
+      "lemma": "sœur",
+      "forms": {
+        "sg": "sœur",
+        "pl": "sœurs"
+      }
+    },
+    "of": {
+      "lemma": "de",
+      "forms": {
+        "de": "de"
+      }
+    }
+  },
+  "phrases": {
+    "he_eats_apple": [
+      {
+        "entry": "he",
+        "form": "nom"
+      },
+      {
+        "entry": "eat",
+        "form": "3sg"
+      },
+      {
+        "entry": "article_indefinite",
+        "form": "une"
+      },
+      {
+        "entry": "apple",
+        "form": "sg"
+      }
+    ],
+    "i_eat_bananas_and_apples": [
+      {
+        "entry": "i",
+        "form": "nom"
+      },
+      {
+        "entry": "eat",
+        "form": "1sg"
+      },
+      {
+        "entry": "article_uncountable",
+        "form": "des"
+      },
+      {
+        "entry": "banana",
+        "form": "pl"
+      },
+      {
+        "entry": "and"
+      },
+      {
+        "entry": "article_uncountable",
+        "form": "des"
+      },
+      {
+        "entry": "apple",
+        "form": "pl"
+      }
+    ],
+    "thank_you_and_goodbye": [
+      {
+        "entry": "thank_you_basic"
+      },
+      {
+        "entry": "and"
+      },
+      {
+        "entry": "generic_goodbye"
+      }
+    ],
+    "bread_with_cheese": [
+      {
+        "entry": "article_uncountable",
+        "form": "du"
+      },
+      {
+        "entry": "bread",
+        "form": "sg"
+      },
+      {
+        "entry": "with",
+        "form": "avec"
+      },
+      {
+        "entry": "article_uncountable",
+        "form": "du"
+      },
+      {
+        "entry": "cheese",
+        "form": "sg"
+      }
+    ],
+    "i_eat_bananas_with_butter_and_you_eat_bread": [
+      {
+        "entry": "i",
+        "form": "nom"
+      },
+      {
+        "entry": "eat",
+        "form": "1sg"
+      },
+      {
+        "entry": "article_uncountable",
+        "form": "des"
+      },
+      {
+        "entry": "banana",
+        "form": "pl"
+      },
+      {
+        "entry": "with",
+        "form": "avec"
+      },
+      {
+        "entry": "article_uncountable",
+        "form": "du"
+      },
+      {
+        "entry": "butter"
+      },
+      {
+        "entry": "and"
+      },
+      {
+        "entry": "you",
+        "form": "nom"
+      },
+      {
+        "entry": "eat",
+        "form": "2sg"
+      },
+      {
+        "entry": "article_uncountable",
+        "form": "du"
+      },
+      {
+        "entry": "bread",
+        "form": "sg"
+      }
+    ],
+    "i_drink_water": [
+      {
+        "entry": "i",
+        "form": "nom"
+      },
+      {
+        "entry": "drink",
+        "form": "1sg"
+      },
+      {
+        "entry": "article_uncountable",
+        "form": "de"
+      },
+      {
+        "entry": "article_definite",
+        "form": "l"
+      },
+      {
+        "entry": "water",
+        "form": "sg"
+      }
+    ],
+    "they_drink_coffee_with_milk": [
+      {
+        "entry": "they_masc",
+        "form": "nom"
+      },
+      {
+        "entry": "drink",
+        "form": "3pl"
+      },
+      {
+        "entry": "article_uncountable",
+        "form": "du"
+      },
+      {
+        "entry": "coffee",
+        "form": "sg"
+      },
+      {
+        "entry": "with",
+        "form": "au"
+      },
+      {
+        "entry": "milk"
+      }
+    ],
+    "you_do_not_drink_tea": [
+      {
+        "entry": "you",
+        "form": "nom"
+      },
+      {
+        "entry": "no",
+        "form": "ne"
+      },
+      {
+        "entry": "drink",
+        "form": "2sg"
+      },
+      {
+        "entry": "no",
+        "form": "pas"
+      },
+      {
+        "entry": "article_uncountable",
+        "form": "de"
+      },
+      {
+        "entry": "tea",
+        "form": "sg"
+      }
+    ],
+    "we_drink_tea_and_coffee": [
+      {
+        "entry": "we",
+        "form": "nom"
+      },
+      {
+        "entry": "drink",
+        "form": "1pl"
+      },
+      {
+        "entry": "article_uncountable",
+        "form": "du"
+      },
+      {
+        "entry": "tea",
+        "form": "sg"
+      },
+      {
+        "entry": "and"
+      },
+      {
+        "entry": "article_uncountable",
+        "form": "du"
+      },
+      {
+        "entry": "coffee",
+        "form": "sg"
+      }
+    ],
+    "apple_juice": [
+      {
+        "entry": "juice",
+        "form": "sg"
+      },
+      {
+        "entry": "of",
+        "form": "de"
+      },
+      {
+        "entry": "apple",
+        "form": "sg"
+      }
+    ],
+    "banana_juice": [
+      {
+        "entry": "juice",
+        "form": "sg"
+      },
+      {
+        "entry": "of",
+        "form": "de"
+      },
+      {
+        "entry": "banana",
+        "form": "sg"
+      }
+    ],
+    "apple_juice_please": [
+      {
+        "entry": "juice",
+        "form": "sg"
+      },
+      {
+        "entry": "of",
+        "form": "de"
+      },
+      {
+        "entry": "apple",
+        "form": "sg"
+      },
+      {
+        "entry": "please"
+      }
+    ],
+    "you_drink_beer_and_i_drink_banana_juice": [
+      {
+        "entry": "you",
+        "form": "nom"
+      },
+      {
+        "entry": "drink",
+        "form": "2sg"
+      },
+      {
+        "entry": "article_uncountable",
+        "form": "de"
+      },
+      {
+        "entry": "article_definite",
+        "form": "la"
+      },
+      {
+        "entry": "beer",
+        "form": "sg"
+      },
+      {
+        "entry": "and"
+      },
+      {
+        "entry": "i",
+        "form": "nom"
+      },
+      {
+        "entry": "drink",
+        "form": "1sg"
+      },
+      {
+        "entry": "article_uncountable",
+        "form": "du"
+      },
+      {
+        "entry": "juice",
+        "form": "sg"
+      },
+      {
+        "entry": "of",
+        "form": "de"
+      },
+      {
+        "entry": "banana",
+        "form": "sg"
+      }
+    ],
+    "i_like_to_drink_banana_juice_and_eat_bread_with_cheese": [
+      {
+        "entry": "i_short"
+      },
+      {
+        "entry": "like",
+        "form": "1sg"
+      },
+      {
+        "entry": "drink",
+        "form": "inf"
+      },
+      {
+        "entry": "article_uncountable",
+        "form": "du"
+      },
+      {
+        "entry": "juice",
+        "form": "sg"
+      },
+      {
+        "entry": "of",
+        "form": "de"
+      },
+      {
+        "entry": "banana",
+        "form": "sg"
+      },
+      {
+        "entry": "and"
+      },
+      {
+        "entry": "eat",
+        "form": "inf"
+      },
+      {
+        "entry": "article_uncountable",
+        "form": "du"
+      },
+      {
+        "entry": "bread",
+        "form": "sg"
+      },
+      {
+        "entry": "with",
+        "form": "avec"
+      },
+      {
+        "entry": "article_uncountable",
+        "form": "du"
+      },
+      {
+        "entry": "cheese",
+        "form": "sg"
+      }
+    ],
+    "here_is_cold": [
+      {
+        "entry": "he",
+        "form": "nom"
+      },
+      {
+        "entry": "do",
+        "form": "3sg"
+      },
+      {
+        "entry": "cold",
+        "form": "sg_masc"
+      },
+      {
+        "entry": "here"
+      }
+    ],
+    "there_is_warm": [
+      {
+        "entry": "he",
+        "form": "nom"
+      },
+      {
+        "entry": "do",
+        "form": "3sg"
+      },
+      {
+        "entry": "warm",
+        "form": "sg_masc"
+      },
+      {
+        "entry": "there"
+      }
+    ],
+    "i_like_cold": [
+      {
+        "entry": "i_short"
+      },
+      {
+        "entry": "like",
+        "form": "1sg"
+      },
+      {
+        "entry": "article_definite",
+        "form": "le"
+      },
+      {
+        "entry": "cold",
+        "form": "sg_masc"
+      }
+    ],
+    "you_do_not_like_warm": [
+      {
+        "entry": "you",
+        "form": "nom"
+      },
+      {
+        "entry": "no",
+        "form": "n"
+      },
+      {
+        "entry": "like",
+        "form": "2sg"
+      },
+      {
+        "entry": "no",
+        "form": "pas"
+      },
+      {
+        "entry": "article_definite",
+        "form": "la"
+      },
+      {
+        "entry": "warm",
+        "form": "nom"
+      }
+    ],
+    "brother_is_here_and_sister_is_there": [
+      {
+        "entry": "article_definite",
+        "form": "le"
+      },
+      {
+        "entry": "brother",
+        "form": "sg"
+      },
+      {
+        "entry": "is",
+        "form": "3sg"
+      },
+      {
+        "entry": "here"
+      },
+      {
+        "entry": "and"
+      },
+      {
+        "entry": "article_definite",
+        "form": "la"
+      },
+      {
+        "entry": "sister",
+        "form": "sg"
+      },
+      {
+        "entry": "is",
+        "form": "3sg"
+      },
+      {
+        "entry": "there"
+      }
+    ],
+    "my_brother_is_son_of_my_father": [
+      {
+        "entry": "my",
+        "form": "masc_nom"
+      },
+      {
+        "entry": "brother",
+        "form": "sg"
+      },
+      {
+        "entry": "is",
+        "form": "3sg"
+      },
+      {
+        "entry": "article_indefinite",
+        "form": "un"
+      },
+      {
+        "entry": "son"
+      },
+      {
+        "entry": "of"
+      },
+      {
+        "entry": "my",
+        "form": "masc_nom"
+      },
+      {
+        "entry": "father",
+        "form": "sg"
+      }
+    ],
+    "mother_eats_apples_and_father_pears": [
+      {
+        "entry": "article_definite",
+        "form": "la"
+      },
+      {
+        "entry": "mother",
+        "form": "sg"
+      },
+      {
+        "entry": "eat",
+        "form": "3sg"
+      },
+      {
+        "entry": "article_uncountable",
+        "form": "des"
+      },
+      {
+        "entry": "apple",
+        "form": "pl"
+      },
+      {
+        "entry": "and"
+      },
+      {
+        "entry": "article_definite",
+        "form": "le"
+      },
+      {
+        "entry": "father",
+        "form": "sg"
+      },
+      {
+        "entry": "eat",
+        "form": "3sg"
+      },
+      {
+        "entry": "article_uncountable",
+        "form": "des"
+      },
+      {
+        "entry": "pear",
+        "form": "pl"
+      }
+    ],
+    "son_and_daughter_eat_bananas_and_drink_cold_banana_juice": [
+      {
+        "entry": "article_definite",
+        "form": "le"
+      },
+      {
+        "entry": "son"
+      },
+      {
+        "entry": "and"
+      },
+      {
+        "entry": "article_definite",
+        "form": "la"
+      },
+      {
+        "entry": "daughter",
+        "form": "sg"
+      },
+      {
+        "entry": "eat",
+        "form": "3pl"
+      },
+      {
+        "entry": "article_uncountable",
+        "form": "des"
+      },
+      {
+        "entry": "banana",
+        "form": "pl"
+      },
+      {
+        "entry": "and"
+      },
+      {
+        "entry": "drink",
+        "form": "3pl"
+      },
+      {
+        "entry": "article_uncountable",
+        "form": "du"
+      },
+      {
+        "entry": "juice",
+        "form": "sg"
+      },
+      {
+        "entry": "of",
+        "form": "de"
+      },
+      {
+        "entry": "banana",
+        "form": "sg"
+      },
+      {
+        "entry": "cold",
+        "form": "sg_masc"
+      }
+    ]
+  }
+}
