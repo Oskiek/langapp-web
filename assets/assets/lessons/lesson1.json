@@ -3,8 +3,7 @@
   "imagePath": "aaa.png",
   "taskCount": 5,
   "allowedTasks":[
-    "taskTranslateSimple",
-    "taskPhrase"
+    "taskTranslateSimple"
   ],
   "entries": [
     "apple",
@@ -12,7 +11,5 @@
     "pear"
   ],
   "phrases": [
-    "he_eats_apple",
-    "i_eat_bananas_and_apples"
   ]
 }

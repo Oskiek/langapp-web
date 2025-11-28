@@ -3,16 +3,14 @@
   "imagePath": "aaa.png",
   "taskCount": 5,
   "allowedTasks":[
-    "taskTranslateSimple",
-    "taskPhrase"
+    "taskTranslateSimple"
   ],
   "entries": [
-    "bread",
-    "cheese",
-    "butter"
+    "we",
+    "you_plural",
+    "they_masc",
+    "they_fem"
   ],
   "phrases": [
-    "bread_with_cheese",
-    "i_eat_bananas_with_butter_and_you_eat_bread"
   ]
 }

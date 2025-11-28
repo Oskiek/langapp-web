@@ -1,21 +1,15 @@
 {
-  "id": "lesson6_drinks",
+  "id": "lesson3_persons1",
   "imagePath": "aaa.png",
-  "taskCount": 6,
+  "taskCount": 5,
   "allowedTasks":[
-    "taskTranslateSimple",
-    "taskPhrase"
+    "taskTranslateSimple"
   ],
   "entries": [
-    "water",
-    "milk",
-    "tea",
-    "coffee"
+    "bread",
+    "cheese",
+    "butter"
   ],
   "phrases": [
-    "i_drink_water",
-    "they_drink_coffee_with_milk",
-    "you_do_not_drink_tea",
-    "we_drink_tea_and_coffee"
   ]
 }

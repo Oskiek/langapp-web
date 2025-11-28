@@ -1,17 +1,19 @@
 {
-  "id": "lesson2_greetings",
-  "imagePath": "word.png",
+  "id": "lesson1_foods",
+  "imagePath": "aaa.png",
   "taskCount": 5,
   "allowedTasks":[
-    "taskTranslate"
+    "taskTranslateSimple",
+    "taskPhrase",
+    "taskPhrase"
   ],
   "entries": [
-    "generic_informal_greeting",
-    "generic_formal_greeting",
-    "generic_goodbye",
-    "thank_you_basic"
+    "apple",
+    "banana",
+    "pear"
   ],
   "phrases": [
-    "thank_you_and_goodbye"
+    "he_eats_apple",
+    "i_eat_bananas_and_apples"
   ]
 }

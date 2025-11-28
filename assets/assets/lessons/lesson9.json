@@ -1,22 +1,16 @@
 {
-  "id": "lesson8_general_review_1",
+  "id": "lesson6_drinks",
   "imagePath": "aaa.png",
-  "taskCount": 7,
+  "taskCount": 6,
   "allowedTasks":[
-    "taskTranslate",
-    "taskTranslate",
     "taskPhrase"
   ],
   "entries": [
-    "here",
-    "there",
-    "cold",
-    "warm"
   ],
   "phrases": [
-    "here_is_cold",
-    "there_is_warm",
-    "i_like_cold",
-    "you_do_not_like_warm"
+    "i_drink_water",
+    "they_drink_coffee_with_milk",
+    "you_do_not_drink_tea",
+    "we_drink_tea_and_coffee"
   ]
 }

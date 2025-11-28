@@ -1,16 +1,17 @@
 {
-  "id": "lesson3_persons1",
-  "imagePath": "aaa.png",
+  "id": "lesson2_greetings",
+  "imagePath": "word.png",
   "taskCount": 5,
   "allowedTasks":[
-    "taskTranslateSimple"
+    "taskTranslate"
   ],
   "entries": [
-    "i",
-    "you",
-    "he",
-    "she"
+    "generic_informal_greeting",
+    "generic_formal_greeting",
+    "generic_goodbye",
+    "thank_you_basic"
   ],
   "phrases": [
+    "thank_you_and_goodbye"
   ]
 }

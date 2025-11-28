@@ -1,18 +1,21 @@
 {
-  "id": "lesson8_general_review_1",
+  "id": "lesson6_drinks",
   "imagePath": "aaa.png",
   "taskCount": 7,
   "allowedTasks":[
-    "taskTranslateSimple"
+    "taskTranslateSimple",
+    "taskPhrase"
   ],
   "entries": [
-    "mother",
-    "father",
-    "son",
-    "daughter",
-    "brother",
-    "sister"
+    "juice",
+    "beer",
+    "tea"
   ],
   "phrases": [
+    "apple_juice",
+    "banana_juice",
+    "apple_juice_please",
+    "you_drink_beer_and_i_drink_banana_juice",
+    "i_like_to_drink_banana_juice_and_eat_bread_with_cheese"
   ]
 }
