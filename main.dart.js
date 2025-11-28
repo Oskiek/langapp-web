@@ -77732,7 +77732,7 @@ s=s==null?null:s.GL()
 return s==null?"???":s},
 aI(a){var s=this.d.h(0,a)
 s=s==null?null:s.GL()
-return s==null?"???":s},
+return s==null?a:s},
 Uh(a){var s,r,q=this.c.h(0,a)
 if(q==null)return new A.c9(this.r,"???")
 s=q.d
@@ -77851,12 +77851,12 @@ c===$&&A.a()
 p=e.c
 p===$&&A.a()
 l=d.GK()
-k=p.u1(l)
-j=c.u1(l)
-i=c.tW(2,!0)
-p=p.c.h(0,l)
-h=p==null?null:p.c
-q.b=new A.t5(h==null?"assets/entry_img/missing.png":h,c,k,j,i)
+k=c.u1(l)
+j=p.u1(l)
+i=p.tW(2,!0)
+c=c.c.h(0,l)
+h=c==null?null:c.c
+q.b=new A.t5(h==null?"assets/entry_img/missing.png":h,p,k,j,i)
 break
 case"taskPhrase":p=e.b
 o=e.c
