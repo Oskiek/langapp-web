@@ -5,78 +5,53 @@
   },
   "typos": {},
   "ui_entries": {
-    "RESULT_terrible": [
-      "Terrible!"
-    ],
-    "RESULT_bad": [
-      "Quite bad."
-    ],
-    "RESULT_okay": [
-      "You can do better!"
-    ],
-    "RESULT_good": [
-      "Good!"
-    ],
-    "RESULT_awesome": [
-      "Awesome!"
-    ],
-    "TASK_translateWord": [
-      "Translate the word"
-    ],
-    "TASK_translatePhrase": [
-      "Translate the phrase"
-    ],
-    "TASK_column": [
-      "Connect the words to their correct translations"
-    ],
-    "TASK_check": [
-      "Check"
-    ],
-    "LESSON_completed": [
-      "Lesson Completed!"
-    ],
-    "LESSON_score": [
-      "Your score:"
-    ],
-    "LESSON_newUnlocked": [
-      "Next lesson unlocked!"
-    ],
-    "LESSON_backToList": [
-      "Return to lesson list"
-    ],
-    "MENU_deleteAllCourses": [
-      "Delete all courses"
-    ],
-    "MENU_selectNative": [
-      "Select your native language"
-    ],
-    "MENU_selectTarget": [
-      "Select the language you want to learn"
-    ],
-    "MENU_noCourses": [
-      "No courses available!"
-    ]
+    "RESULT_terrible": ["Terrible!"],
+    "RESULT_bad": ["Quite bad."],
+    "RESULT_okay": ["You can do better!"],
+    "RESULT_good": ["Good!"],
+    "RESULT_awesome": ["Awesome!"],
+    "TASK_translateWord": ["Translate the word:"],
+    "TASK_translatePhrase": ["Translate the phrase:"],
+    "TASK_column": ["Connect the words to their correct translations"],
+    "TASK_check": ["Check"],
+    "LESSON_completed": ["Lesson Completed!"],
+    "LESSON_score": ["Your score:"],
+    "LESSON_newUnlocked": ["Next lesson unlocked!"],
+    "LESSON_backToList": ["Return to lesson list"],
+    "MENU_deleteAllCourses": ["Delete all courses"],
+    "MENU_selectNative": ["Select your native language"],
+    "MENU_selectTarget": ["Select the language you want to learn"],
+    "MENU_noCourses": ["No courses available!"],
+    "TITLE_courseList": ["Course List"],
+    "TITLE_addCourse": ["Add Course"],
+    "TITLE_about": ["About"],
+    "ADD_success": ["New course created"],
+    "ADD_fail": ["Course could not be created"],
+    "MENU_lessonList": ["Lesson List"],
+    "MENU_lesson": ["Lesson"],
+    "LESSON_alert": ["Are you sure you want to quit the lesson?"],
+    "LESSON_quit": ["Quit"],
+    "LESSON_continue": ["Keep learning"],
+    "LESSON_next": ["Next task"],
+    "LESSON_complete": ["Complete lesson"],
+    "LESSON_results": ["Lesson Results"],
+    "LESSON_tryAgain": ["Try again"],
+    "LESSON_congrats": ["Congratulations!"],
+    "LESSON_courseEnd": ["Course completed"],
+    "LESSON_wrong": ["Wrong"],
+    "LESSON_good": ["Correct"],
+    "LESSON_correctAnswer": ["Correct answer"],
+    "MENU_deletecourse": ["Are you sure you want to delete this course?"],
+    "MENU_cancel": ["Cancel"],
+    "MENU_confirm": ["Confirm"],
+    "LESSON_type": ["Type yout answer here"]
   },
   "entries": {
-    "generic_informal_greeting": [
-      "hi",
-      "hey"
-    ],
-    "generic_formal_greeting": [
-      "good morning",
-      "good afternoon"
-    ],
-    "generic_goodbye": [
-      "goodbye",
-      "see you"
-    ],
-    "thank_you_basic": [
-      "thank you",
-      "thanks"
-    ],
-    "and": [
-      "and"
-    ],
+    "generic_informal_greeting": ["hi", "hey"],
+    "generic_formal_greeting": ["good morning", "good afternoon"],
+    "generic_goodbye": ["goodbye", "see you"],
+    "thank_you_basic": ["thank you", "thanks"],
+    "and": ["and"],
     "article_indefinite": {
       "forms": {
         "a": "a",
@@ -310,12 +285,8 @@
         "sg_acc_masc": "banana"
       }
     },
-    "please": [
-      "please"
-    ],
-    "no": [
-      "do not"
-    ],
+    "please": ["please"],
+    "no": ["do not"],
     "here": {
       "lemma": "here",
       "forms": {

@@ -4,92 +4,70 @@
     "name": "Francais"
   },
   "typos": {
-    "à":"a",
-    "â":"a",
-    "æ":"ae",
-    "é":"e",
-    "è":"e",
-    "ê":"e",
-    "ë":"e",
-    "î":"i",
-    "ï":"i",
-    "ô":"o",
-    "œ":"oe",
-    "ù":"u",
-    "û":"u",
-    "ü":"u",
-    "ÿ":"y"
+    "à": "a",
+    "â": "a",
+    "æ": "ae",
+    "é": "e",
+    "è": "e",
+    "ê": "e",
+    "ë": "e",
+    "î": "i",
+    "ï": "i",
+    "ô": "o",
+    "œ": "oe",
+    "ù": "u",
+    "û": "u",
+    "ü": "u",
+    "ÿ": "y"
   },
   "ui_entries": {
-    "RESULT_terrible": [
-      "Terrible !"
-    ],
-    "RESULT_bad": [
-      "Assez mauvais."
-    ],
-    "RESULT_okay": [
-      "Vous pouvez mieux faire !"
-    ],
-    "RESULT_good": [
-      "Bien !"
-    ],
-    "RESULT_awesome": [
-      "Génial !"
-    ],
-    "TASK_translateWord": [
-      "Traduire le mot"
-    ],
-    "TASK_translatePhrase": [
-      "Traduire la phrase"
-    ],
-    "TASK_column": [
-      "Reliez les mots à leurs bonnes traductions"
-    ],
-    "TASK_check": [
-      "Vérifier"
-    ],
-    "LESSON_completed": [
-      "Leçon terminée !"
-    ],
-    "LESSON_score": [
-      "Votre score :"
-    ],
-    "LESSON_newUnlocked": [
-      "Prochaine leçon débloquée !"
-    ],
-    "LESSON_backToList": [
-      "Retour à la liste des leçons"
-    ],
-    "MENU_deleteAllCourses": [
-      "Supprimer tous les cours"
-    ],
-    "MENU_selectNative": [
-      "Sélectionnez votre langue maternelle"
-    ],
-    "MENU_selectTarget": [
-      "Sélectionnez la langue que vous voulez apprendre"
-    ],
-    "MENU_noCourses": [
-      "Pas de cours!"
-    ]
+    "RESULT_terrible": ["Terrible !"],
+    "RESULT_bad": ["Assez mauvais."],
+    "RESULT_okay": ["Vous pouvez mieux faire !"],
+    "RESULT_good": ["Bien !"],
+    "RESULT_awesome": ["Génial !"],
+    "TASK_translateWord": ["Traduire le mot:"],
+    "TASK_translatePhrase": ["Traduire la phrase:"],
+    "TASK_column": ["Reliez les mots à leurs bonnes traductions"],
+    "TASK_check": ["Vérifier"],
+    "LESSON_completed": ["Leçon terminée !"],
+    "LESSON_score": ["Votre score:"],
+    "LESSON_newUnlocked": ["Prochaine leçon débloquée !"],
+    "LESSON_backToList": ["Retour à la liste des leçons"],
+    "MENU_deleteAllCourses": ["Supprimer tous les cours"],
+    "MENU_selectNative": ["Sélectionnez votre langue maternelle"],
+    "MENU_selectTarget": ["Sélectionnez la langue que vous voulez apprendre"],
+    "MENU_noCourses": ["Pas de cours!"],
+    "TITLE_courseList": ["Liste de cours"],
+    "TITLE_addCourse": ["Ajouter un Cours"],
+    "TITLE_about": ["À propos"],
+    "ADD_success": ["Nouveau cours créé"],
+    "ADD_fail": ["Impossible de créer le cours"],
+    "MENU_lessonList": ["Liste des leçons"],
+    "MENU_lesson": ["Leçon"],
+    "LESSON_alert": ["Êtes-vous sûr de vouloir quitter le cours?"],
+    "LESSON_quit": ["Quitter"],
+    "LESSON_continue": ["Continuer"],
+    "LESSON_next": ["Prochaine tâche"],
+    "LESSON_complete": ["Terminer la leçon"],
+    "LESSON_results": ["Résultats de la leçon"],
+    "LESSON_tryAgain": ["Essayer à nouveau"],
+    "LESSON_congrats": ["Félicitations!"],
+    "LESSON_courseEnd": ["Cours terminé"],
+    "LESSON_wrong": ["Faux"],
+    "LESSON_good": ["Correcte"],
+    "LESSON_correctAnswer": ["Bonne réponse"],
+    "MENU_deletecourse": ["Êtes-vous sûr de vouloir supprimer ce cours?"],
+    "MENU_cancel": ["Annuler"],
+    "MENU_confirm": ["Confirmer"],
+    "LESSON_type": ["Saisissez votre réponse ici"]
   },
   "entries": {
-    "generic_informal_greeting": [
-      "salut"
-    ],
-    "generic_formal_greeting": [
-      "bonjour"
-    ],
-    "generic_goodbye": [
-      "au revoir",
-      "a plus"
-    ],
-    "thank_you_basic": [
-      "merci"
-    ],
-    "and": [
-      "et"
-    ],
+    "generic_informal_greeting": ["salut"],
+    "generic_formal_greeting": ["bonjour"],
+    "generic_goodbye": ["au revoir", "a plus"],
+    "thank_you_basic": ["merci"],
+    "and": ["et"],
     "article_indefinite": {
       "forms": {
         "un": "un",
@@ -195,9 +173,7 @@
         "acc": "moi"
       }
     },
-    "i_short": [
-      "j'"
-    ],
+    "i_short": ["j'"],
     "you": {
       "imagePath": "assets/entry_img/you.png",
       "lemma": "tu",
@@ -206,9 +182,7 @@
         "acc": "toi"
       }
     },
-    "you_short": [
-      "t'"
-    ],
+    "you_short": ["t'"],
     "we": {
       "imagePath": "assets/entry_img/we.png",
       "lemma": "nous",
@@ -312,9 +286,7 @@
         "pl": "jus"
       }
     },
-    "please": [
-      "s'il vous plaît"
-    ],
+    "please": ["s'il vous plaît"],
     "no": {
       "lemma": "non",
       "forms": {

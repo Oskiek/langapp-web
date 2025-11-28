@@ -4,59 +4,64 @@
     "name": "Türkçe"
   },
   "typos": {
-    "ş":"s",
-    "ı":"i",
-    "ğ":"g",
-    "ö":"o",
-    "ü":"u",
-    "ç":"c"
+    "ş": "s",
+    "ı": "i",
+    "ğ": "g",
+    "ö": "o",
+    "ü": "u",
+    "ç": "c"
   },
-  "ui_entries":{
-    "RESULT_terrible" : ["Berbat!"],
-    "RESULT_bad" : ["Oldukça kötü."],
-    "RESULT_okay" : ["Daha iyisini yapabilirsin!"],
-    "RESULT_good" : ["İyi!"],
-    "RESULT_awesome" : ["Harika!"],
-    "TASK_translateWord" : ["Kelimeyi çevir"],
-    "TASK_translatePhrase" : ["Cümleyi çevir"],
-    "TASK_column" : ["Kelimeleri doğru çevirileriyle eşleştir"],
-    "TASK_check" : ["Kontrol et"],
-    "LESSON_completed" : ["Ders tamamlandı!"],
-    "LESSON_score" : ["Puanın:"],
-    "LESSON_newUnlocked" : ["Sonraki ders açıldı!"],
-    "LESSON_backToList" : ["Ders listesine dön"],
-    "MENU_deleteAllCourses" : ["Tüm kursları sil"],
-    "MENU_selectNative" : ["Anadilini seç"],
-    "MENU_selectTarget" : ["Öğrenmek istediğin dili seç"],
-    "MENU_noCourses": [
-      "Kurs yok!"
-    ]
+  "ui_entries": {
+    "RESULT_terrible": ["Berbat!"],
+    "RESULT_bad": ["Oldukça kötü."],
+    "RESULT_okay": ["Daha iyisini yapabilirsin!"],
+    "RESULT_good": ["İyi!"],
+    "RESULT_awesome": ["Harika!"],
+    "TASK_translateWord": ["Kelimeyi çevir:"],
+    "TASK_translatePhrase": ["Cümleyi çevir:"],
+    "TASK_column": ["Kelimeleri doğru çevirileriyle eşleştir"],
+    "TASK_check": ["Kontrol et"],
+    "LESSON_completed": ["Ders tamamlandı!"],
+    "LESSON_score": ["Puanın:"],
+    "LESSON_newUnlocked": ["Sonraki ders açıldı!"],
+    "LESSON_backToList": ["Ders listesine dön"],
+    "MENU_deleteAllCourses": ["Tüm kursları sil"],
+    "MENU_selectNative": ["Anadilini seç"],
+    "MENU_selectTarget": ["Öğrenmek istediğin dili seç"],
+    "MENU_noCourses": ["Kurs yok!"],
+    "TITLE_courseList": ["Kurs Listesi"],
+    "TITLE_addCourse": ["Kurs ekle"],
+    "TITLE_about": ["Uygulama hakkında"],
+    "ADD_success": ["Yeni kurs oluşturuldu"],
+    "ADD_fail": ["Kurs oluşturulamadı"],
+    "MENU_lessonList": ["Ders Listesi"],
+    "MENU_lesson": ["Ders"],
+    "LESSON_alert": ["Dersten çıkmak istediğinize emin misiniz?"],
+    "LESSON_quit": ["Çıkış yapmak"],
+    "LESSON_continue": ["Devam etmek"],
+    "LESSON_next": ["Sonraki görev"],
+    "LESSON_complete": ["Dersi Tamamla"],
+    "LESSON_results": ["Ders Sonuçları"],
+    "LESSON_tryAgain": ["Tekrar deneyin"],
+    "LESSON_congrats": ["Tebrikler!"],
+    "LESSON_courseEnd": ["Kurs tamamlandı"],
+    "LESSON_wrong": ["Yanlış"],
+    "LESSON_good": ["Doğru"],
+    "LESSON_correctAnswer": ["Doğru cevap"],
+    "MENU_deletecourse": ["Bu kursu silmek istediğinizden emin misiniz?"],
+    "MENU_cancel": ["İptal etmek"],
+    "MENU_confirm": ["Onaylamak"],
+    "LESSON_type": ["Cevabınızı buraya yazın"]
   },
   "entries": {
-    "generic_informal_greeting": [
-      "merhaba",
-      "selam"
-    ],
-    "generic_formal_greeting": [
-      "günaydın",
-      "iyi günler"
-    ],
-    "generic_goodbye": [
-      "hoşça kal",
-      "görüşürüz"
-    ],
-    "thank_you_basic": [
-      "teşekkür ederim",
-      "sağ ol"
-    ],
-    "and": [
-      "ve"
-    ],
-    "article_indefinite": [
-      "bir"
-    ],
+    "generic_informal_greeting": ["merhaba", "selam"],
+    "generic_formal_greeting": ["günaydın", "iyi günler"],
+    "generic_goodbye": ["hoşça kal", "görüşürüz"],
+    "thank_you_basic": ["teşekkür ederim", "sağ ol"],
+    "and": ["ve"],
+    "article_indefinite": ["bir"],
     "apple": {
-      "imagePath" : "assets/entry_img/apple.png",
+      "imagePath": "assets/entry_img/apple.png",
       "lemma": "elma",
       "forms": {
         "sg_nom": "elma",
@@ -66,7 +71,7 @@
       }
     },
     "banana": {
-      "imagePath" : "assets/entry_img/banana.png",
+      "imagePath": "assets/entry_img/banana.png",
       "lemma": "muz",
       "forms": {
         "sg_nom": "muz",
@@ -76,7 +81,7 @@
       }
     },
     "pear": {
-      "imagePath" : "assets/entry_img/pear.png",
+      "imagePath": "assets/entry_img/pear.png",
       "lemma": "armut",
       "forms": {
         "sg_nom": "armut",
@@ -163,7 +168,7 @@
     },
 
     "he": {
-      "imagePath" : "assets/entry_img/he.png", 
+      "imagePath": "assets/entry_img/he.png",
       "lemma": "o",
       "forms": {
         "nom": "o",
@@ -171,7 +176,7 @@
       }
     },
     "she": {
-      "imagePath" : "assets/entry_img/she.png", 
+      "imagePath": "assets/entry_img/she.png",
       "lemma": "o",
       "forms": {
         "nom": "o",
@@ -179,7 +184,7 @@
       }
     },
     "i": {
-      "imagePath" : "assets/entry_img/me.png", 
+      "imagePath": "assets/entry_img/me.png",
       "lemma": "ben",
       "forms": {
         "nom": "ben",
@@ -187,7 +192,7 @@
       }
     },
     "you": {
-      "imagePath" : "assets/entry_img/you.png",
+      "imagePath": "assets/entry_img/you.png",
       "lemma": "sen",
       "forms": {
         "nom": "sen",
@@ -195,7 +200,7 @@
       }
     },
     "we": {
-      "imagePath" : "assets/entry_img/we.png",
+      "imagePath": "assets/entry_img/we.png",
       "lemma": "biz",
       "forms": {
         "nom": "biz",
@@ -203,7 +208,7 @@
       }
     },
     "you_plural": {
-      "imagePath" : "assets/entry_img/you_plural.png",
+      "imagePath": "assets/entry_img/you_plural.png",
       "lemma": "siz",
       "forms": {
         "nom": "siz",
@@ -211,7 +216,7 @@
       }
     },
     "they_masc": {
-      "imagePath" : "assets/entry_img/they_masc.png",
+      "imagePath": "assets/entry_img/they_masc.png",
       "lemma": "onlar",
       "forms": {
         "nom": "onlar",
@@ -219,7 +224,7 @@
       }
     },
     "they_fem": {
-      "imagePath" : "assets/entry_img/they_fem.png",
+      "imagePath": "assets/entry_img/they_fem.png",
       "lemma": "onlar",
       "forms": {
         "nom": "onlar",
@@ -227,7 +232,7 @@
       }
     },
     "bread": {
-      "imagePath" : "assets/entry_img/bread.png", 
+      "imagePath": "assets/entry_img/bread.png",
       "lemma": "ekmek",
       "forms": {
         "sg_nom": "ekmek",
@@ -237,7 +242,7 @@
       }
     },
     "cheese": {
-      "imagePath" : "assets/entry_img/cheese.png", 
+      "imagePath": "assets/entry_img/cheese.png",
       "lemma": "peynir",
       "forms": {
         "sg_nom": "peynir",
@@ -248,7 +253,7 @@
       }
     },
     "butter": {
-      "imagePath" : "assets/entry_img/butter.png", 
+      "imagePath": "assets/entry_img/butter.png",
       "lemma": "tereyağı",
       "forms": {
         "sg_nom": "tereyağı",
@@ -263,7 +268,7 @@
       }
     },
     "water": {
-      "imagePath" : "assets/entry_img/water.png", 
+      "imagePath": "assets/entry_img/water.png",
       "lemma": "su",
       "forms": {
         "sg_nom": "su",
@@ -271,7 +276,7 @@
       }
     },
     "milk": {
-      "imagePath" : "assets/entry_img/milk.png",
+      "imagePath": "assets/entry_img/milk.png",
       "lemma": "süt",
       "forms": {
         "sg_nom": "süt",
@@ -280,7 +285,7 @@
       }
     },
     "tea": {
-      "imagePath" : "assets/entry_img/tea.png", 
+      "imagePath": "assets/entry_img/tea.png",
       "lemma": "çay",
       "forms": {
         "sg_nom": "çay",
@@ -288,7 +293,7 @@
       }
     },
     "coffee": {
-      "imagePath" : "assets/entry_img/coffee.png", 
+      "imagePath": "assets/entry_img/coffee.png",
       "lemma": "kahve",
       "forms": {
         "sg_nom": "kahve",
@@ -296,7 +301,7 @@
       }
     },
     "beer": {
-      "imagePath" : "assets/entry_img/beer.png", 
+      "imagePath": "assets/entry_img/beer.png",
       "lemma": "bira",
       "forms": {
         "sg_nom": "bira",
@@ -306,7 +311,7 @@
       }
     },
     "juice": {
-      "imagePath" : "assets/entry_img/juice.png", 
+      "imagePath": "assets/entry_img/juice.png",
       "lemma": "meyve suyu",
       "forms": {
         "sg_nom": "meyve suyu",
@@ -334,12 +339,8 @@
         "sg_acc_masc": "muzlu"
       }
     },
-    "please": [
-      "lütfen"
-    ],
-    "no": [
-      "değil"
-    ],
+    "please": ["lütfen"],
+    "no": ["değil"],
     "here": {
       "lemma": "burada",
       "forms": {
@@ -389,7 +390,7 @@
       }
     },
     "mother": {
-      "imagePath" : "assets/entry_img/mom.png", 
+      "imagePath": "assets/entry_img/mom.png",
       "lemma": "anne",
       "forms": {
         "sg_nom": "anne",
@@ -397,7 +398,7 @@
       }
     },
     "father": {
-      "imagePath" : "assets/entry_img/dad.png", 
+      "imagePath": "assets/entry_img/dad.png",
       "lemma": "baba",
       "forms": {
         "sg_nom": "baba",
@@ -406,7 +407,7 @@
       }
     },
     "son": {
-      "imagePath" : "assets/entry_img/son.png", 
+      "imagePath": "assets/entry_img/son.png",
       "lemma": "oğul",
       "forms": {
         "sg_nom": "oğul",
@@ -414,7 +415,7 @@
       }
     },
     "daughter": {
-      "imagePath" : "assets/entry_img/daughter.png",
+      "imagePath": "assets/entry_img/daughter.png",
       "lemma": "kız",
       "forms": {
         "sg_nom": "kız",
@@ -422,7 +423,7 @@
       }
     },
     "brother": {
-      "imagePath" : "assets/entry_img/brother.png", 
+      "imagePath": "assets/entry_img/brother.png",
       "lemma": "erkek kardeş",
       "forms": {
         "sg_nom": "erkek kardeş",
@@ -431,7 +432,7 @@
       }
     },
     "sister": {
-      "imagePath" : "assets/entry_img/sister.png", 
+      "imagePath": "assets/entry_img/sister.png",
       "lemma": "kız kardeş",
       "forms": {
         "sg_nom": "kız kardeş",

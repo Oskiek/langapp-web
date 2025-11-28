@@ -15,77 +15,53 @@
     "ń": "n"
   },
   "ui_entries": {
-    "RESULT_terrible": [
-      "Okropnie!"
-    ],
-    "RESULT_bad": [
-      "Słabo!"
-    ],
-    "RESULT_okay": [
-      "Może być lepiej!"
-    ],
-    "RESULT_good": [
-      "Dobrze!"
-    ],
-    "RESULT_awesome": [
-      "Wspaniale!"
-    ],
-    "TASK_translateWord": [
-      "Przetłumacz słowo"
-    ],
-    "TASK_translatePhrase": [
-      "Przetłumacz zdanie:"
-    ],
-    "TASK_column": [
-      "Połącz słowa w pary"
-    ],
-    "TASK_check": [
-      "Sprawdź"
-    ],
-    "LESSON_completed": [
-      "Lekcja ukończona!"
-    ],
-    "LESSON_score": [
-      "Twój wynik:"
-    ],
-    "LESSON_newUnlocked": [
-      "Odblokowano następną lekcję!"
-    ],
-    "LESSON_backToList": [
-      "Wróć do listy lekcji"
-    ],
-    "MENU_deleteAllCourses": [
-      "Usuń wszystkie kursy"
-    ],
-    "MENU_selectNative": [
-      "Wybierz swój język ojczysty"
-    ],
-    "MENU_selectTarget": [
-      "Wybierz język którego chcesz się uczyć"
-    ],
-    "MENU_noCourses": [
-      "Brak kursów!"
-    ]
+    "RESULT_terrible": ["Okropnie!"],
+    "RESULT_bad": ["Słabo!"],
+    "RESULT_okay": ["Może być lepiej!"],
+    "RESULT_good": ["Dobrze!"],
+    "RESULT_awesome": ["Wspaniale!"],
+    "TASK_translateWord": ["Przetłumacz słowo:"],
+    "TASK_translatePhrase": ["Przetłumacz zdanie:"],
+    "TASK_column": ["Połącz słowa w pary"],
+    "TASK_check": ["Sprawdź"],
+    "LESSON_completed": ["Lekcja ukończona!"],
+    "LESSON_score": ["Twój wynik:"],
+    "LESSON_newUnlocked": ["Odblokowano następną lekcję!"],
+    "LESSON_backToList": ["Wróć do listy lekcji"],
+    "MENU_deleteAllCourses": ["Usuń wszystkie kursy"],
+    "MENU_selectNative": ["Wybierz swój język ojczysty"],
+    "MENU_selectTarget": ["Wybierz język którego chcesz się uczyć"],
+    "MENU_noCourses": ["Brak kursów!"],
+    "TITLE_courseList": ["Lista Kursów"],
+    "TITLE_addCourse": ["Dodaj Kurs"],
+    "TITLE_about": ["O Aplikacji"],
+    "ADD_success": ["Utworzono nowy kurs"],
+    "ADD_fail": ["Nie można utworzyć kursu"],
+    "MENU_lessonList": ["Lista Lekcji"],
+    "MENU_lesson": ["Lekcja"],
+    "LESSON_alert": ["Czy na pewno chcesz przerwać lekcję?"],
+    "LESSON_quit": ["Wyjdź"],
+    "LESSON_continue": ["Kontynuuj"],
+    "LESSON_next": ["Następne zadanie"],
+    "LESSON_complete": ["Zakończ lekcję"],
+    "LESSON_results": ["Wyniki Lekcji"],
+    "LESSON_tryAgain": ["Sprubój ponownie"],
+    "LESSON_congrats": ["Gratulacje!"],
+    "LESSON_courseEnd": ["Ukończono Kurs"],
+    "LESSON_wrong": ["Źle"],
+    "LESSON_good": ["Dobrze"],
+    "LESSON_correctAnswer": ["Prawdiłowa odpowiedź"],
+    "MENU_deletecourse": ["Czy na pewno chcesz usunąć ten kurs?"],
+    "MENU_cancel": ["Anuluj"],
+    "MENU_confirm": ["Potwierdź"],
+    "LESSON_type": ["Wpisz odpowiedź"]
   },
   "entries": {
-    "generic_informal_greeting": [
-      "cześć",
-      "hej"
-    ],
-    "generic_formal_greeting": [
-      "dzień dobry"
-    ],
-    "generic_goodbye": [
-      "do widzenia",
-      "pa"
-    ],
-    "thank_you_basic": [
-      "dziękuję",
-      "dzięki"
-    ],
-    "and": [
-      "i"
-    ],
+    "generic_informal_greeting": ["cześć", "hej"],
+    "generic_formal_greeting": ["dzień dobry"],
+    "generic_goodbye": ["do widzenia", "pa"],
+    "thank_you_basic": ["dziękuję", "dzięki"],
+    "and": ["i"],
     "apple": {
       "imagePath": "assets/entry_img/apple.png",
       "lemma": "jabłko",
@@ -331,12 +307,8 @@
         "sg_acc_neut": "bananowe"
       }
     },
-    "please": [
-      "proszę"
-    ],
-    "no": [
-      "nie"
-    ],
+    "please": ["proszę"],
+    "no": ["nie"],
     "here": {
       "lemma": "tu",
       "forms": {
