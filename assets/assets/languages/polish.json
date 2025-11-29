@@ -255,6 +255,7 @@
       "forms": {
         "sg_nom": "herbata",
         "sg_acc": "herbatę",
+        "sg_gen": "herbaty",
         "pl_nom": "herbaty",
         "pl_acc": "herbaty"
       }
@@ -565,7 +566,7 @@
       },
       {
         "entry": "tea",
-        "form": "sg_acc"
+        "form": "herbaty"
       }
     ],
     "we_drink_tea_and_coffee": [
