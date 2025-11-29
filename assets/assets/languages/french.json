@@ -65,7 +65,8 @@
   "entries": {
     "generic_informal_greeting": ["salut"],
     "generic_formal_greeting": ["bonjour"],
-    "generic_goodbye": ["au revoir", "a plus"],
+    "generic_goodbye": ["au revoir"],
+    "generic_see_you": ["a plus"],
     "thank_you_basic": ["merci"],
     "and": ["et"],
     "article_indefinite": {

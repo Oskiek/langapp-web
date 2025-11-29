@@ -57,10 +57,11 @@
     "LESSON_type": ["Wpisz odpowiedź"]
   },
   "entries": {
-    "generic_informal_greeting": ["cześć", "hej"],
+    "generic_informal_greeting": ["cześć"],
     "generic_formal_greeting": ["dzień dobry"],
-    "generic_goodbye": ["do widzenia", "pa"],
-    "thank_you_basic": ["dziękuję", "dzięki"],
+    "generic_goodbye": ["do widzenia"],
+    "generic_see_you": ["do zobaczenia"],
+    "thank_you_basic": ["dziękuję"],
     "and": ["i"],
     "apple": {
       "imagePath": "assets/entry_img/apple.png",

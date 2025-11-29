@@ -9,7 +9,8 @@
     "generic_informal_greeting",
     "generic_formal_greeting",
     "generic_goodbye",
-    "thank_you_basic"
+    "thank_you_basic",
+    "generic_see_you"
   ],
   "phrases": [
     "thank_you_and_goodbye"

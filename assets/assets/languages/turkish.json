@@ -55,9 +55,10 @@
   },
   "entries": {
     "generic_informal_greeting": ["merhaba", "selam"],
-    "generic_formal_greeting": ["günaydın", "iyi günler"],
-    "generic_goodbye": ["hoşça kal", "görüşürüz"],
-    "thank_you_basic": ["teşekkür ederim", "sağ ol"],
+    "generic_formal_greeting": ["günaydın"],
+    "generic_goodbye": ["hoşça kal"],
+    "generic_see_you": ["görüşürüz"],
+    "thank_you_basic": ["teşekkür ederim"],
     "and": ["ve"],
     "article_indefinite": ["bir"],
     "apple": {

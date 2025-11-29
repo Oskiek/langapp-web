@@ -48,9 +48,10 @@
   },
   "entries": {
     "generic_informal_greeting": ["привет"],
-    "generic_formal_greeting": ["доброе утро", "добрый день"],
-    "generic_goodbye": ["до свидания", "пока"],
-    "thank_you_basic": ["спасибо", "благодарю"],
+    "generic_formal_greeting": ["здраствуйте"],
+    "generic_goodbye": ["до свидания"],
+    "generic_see_you": ["пока"],
+    "thank_you_basic": ["спасибо"],
     "and": {
       "lemma": "и",
       "forms": {

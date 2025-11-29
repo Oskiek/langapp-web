@@ -47,9 +47,10 @@
     "LESSON_type": ["Type yout answer here"]
   },
   "entries": {
-    "generic_informal_greeting": ["hi", "hey"],
+    "generic_informal_greeting": ["hi"],
     "generic_formal_greeting": ["good morning", "good afternoon"],
-    "generic_goodbye": ["goodbye", "see you"],
+    "generic_goodbye": ["goodbye"],
+    "generic_see_you": ["see you"],
     "thank_you_basic": ["thank you", "thanks"],
     "and": ["and"],
     "article_indefinite": {
